@@ -1,1 +1,16 @@
-/*  your css code here. If applicable */
+body{
+    background-color: #f5f5f5;
+}
+ 
+.quote-1,.quote-2{
+    background-color: white;
+    border: 1px solid #e7d3d3;
+	display:flex;
+	justify-content:space-between;
+	padding:12px 16px;   
+}
+ 
+.author{
+    text-align: right;
+    font-style: italic;
+}
